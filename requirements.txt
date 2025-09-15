@@ -1,0 +1,10 @@
+numpy
+scikit-learn
+# Optional (preferred MNIST source)
+torch
+torchvision
+# Dev tooling
+black
+isort
+ruff
+pytest
